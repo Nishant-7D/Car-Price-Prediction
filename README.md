@@ -4,6 +4,9 @@ A Machine Learning web application that predicts the resale price of a used car 
 
 The project uses a **Random Forest Regression** model and provides an interactive interface built with **Streamlit**.
 
+# live demo
+(https://car-price-prediction-fast.streamlit.app/)
+
 # Project Overview
 
 Buying or selling a used car can be difficult because prices depend on many factors.
